@@ -1,0 +1,13 @@
+-------------------------------------
+1.0.0 - Initial Release (2016-02-21)
+
+Added 50 Total Objects
+-------------------------------------
+Added 01 Lotus object
+Added 02 Lantern objects
+Added 03 Walkway walls
+Added 04 Tiled Floor objects
+Added 08 Tiled Stairway objects
+Added 10 Teahouse walls
+Added 22 Roof objects
+-------------------------------------

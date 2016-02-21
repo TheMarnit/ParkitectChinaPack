@@ -1,0 +1,745 @@
+﻿{
+	"Teahouse Wall": {
+		"model": "Teahouse_10x00x10_Regular",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000"
+        }
+	},
+	"Teahouse Wall Window": {
+		"model": "Teahouse_10x00x10_Regular_Window",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#800000"
+        }
+	},
+	"Teahouse Wall Door": {
+		"model": "Teahouse_10x00x10_Regular_Door",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#800000"
+        }
+	},
+	"Teahouse Wall Angled": {
+		"model": "Teahouse_10x00x10_Regular_Angled",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#800000"
+        }
+	},
+	"Teahouse Wall (Bottom)": {
+		"model": "Teahouse_10x00x10_Bottom",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Teahouse Wall Window (Bottom)": {
+		"model": "Teahouse_10x00x10_Bottom_Window",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA",
+            "color4": "#800000"
+        }
+	},
+	"Teahouse Wall Door (Bottom)": {
+		"model": "Teahouse_10x00x10_Bottom_Door",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA",
+            "color4": "#800000"
+        }
+	},
+	"Teahouse Wall Angled (Bottom)": {
+		"model": "Teahouse_10x00x10_Bottom_Angled",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Teahouse Wall Half": {
+		"model": "Teahouse_10x00x05_Regular",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000"
+        }
+	},
+	"Teahouse Wall Half (Bottom)": {
+		"model": "Teahouse_10x00x05_Bottom",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Walkway Wall": {
+		"model": "Walkway_10x00x10_Regular",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#FF0000"
+        }
+	},
+	"Walkway Entrance": {
+		"model": "Walkway_10x00x10_No_Wall",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000"
+        }
+	},
+	"Walkway Beam": {
+		"model": "Walkway_10x00x10_Beam",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF"
+        }
+	},
+	"Roof": {
+		"model": "Roof_10x10x10_Regular",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF"
+        }
+	},
+	"Roof Corner": {
+		"model": "Roof_10x10x10_Corner",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Inner Corner": {
+		"model": "Roof_10x10x10_Inner_Corner",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top": {
+		"model": "Roof_10x10x10_Top_Cap",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Straight": {
+		"model": "Roof_10x10x10_Top",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Corner": {
+		"model": "Roof_10x10x10_Top_Corner",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top T-Junction": {
+		"model": "Roof_10x10x10_Top_T",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Cross": {
+		"model": "Roof_10x10x10_Top_X",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Side": {
+		"model": "Roof_10x10x10_Top_Side",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Cap": {
+		"model": "Roof_10x00x00_Cap",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#303030"
+        }
+	},
+	"Roof Cap Angled": {
+		"model": "Roof_10x00x10_Cap_Angled",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#303030"
+        }
+	},
+	"Roof (Bottom)": {
+		"model": "Roof_10x10x05_Bottom",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Corner (Bottom)": {
+		"model": "Roof_10x10x05_Bottom_Corner",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Inner Corner (Bottom)": {
+		"model": "Roof_10x10x05_Bottom_Inner_Corner",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top (Bottom)": {
+		"model": "Roof_10x10x05_Top_Bottom_Cap",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Straight (Bottom)": {
+		"model": "Roof_10x10x05_Top_Bottom",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Corner (Bottom)": {
+		"model": "Roof_10x10x05_Top_Bottom_Corner",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top T-Junction (Bottom)": {
+		"model": "Roof_10x10x05_Top_Bottom_T",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Cross (Bottom)": {
+		"model": "Roof_10x10x05_Top_Bottom_X",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Top Side (Bottom)": {
+		"model": "Roof_10x10x05_Top_Bottom_Side",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#404540",
+            "color2": "#304030",
+            "color3": "#FFFFFF",
+            "color4": "#303030"
+        }
+	},
+	"Roof Corner Cap": {
+		"model": "Roof_10x10x05_Corner_Cap",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 15.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#303030"
+        }
+	},
+	"Roof Corner Dragon": {
+		"model": "Roof_10x10x05_Corner_Cap_Dragon",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 15.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#D69700",
+            "color2": "#1BA751",
+            "color3": "#61839D",
+            "color4": "#430767"
+        }
+	},
+	"Lantern": {
+		"model": "Lantern_02x02x025_Symbols",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 5.0,
+		"heightDelta": 0.25,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#FFFF00",
+            "color3": "#808080",
+            "color4": "#FF0000"
+        }
+	},
+	"Lantern Rope": {
+		"model": "Lantern_02x02x025_Rope",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 5.0,
+		"heightDelta": 0.25,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color": "#808080"
+        }
+	},
+	"Diamond Tiles Floor": {
+		"model": "Floor_10x10x0_Tiles_Diamond",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Straight Tiles Floor": {
+		"model": "Floor_10x10x0_Tiles_Straight",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Angled Tiles Floor": {
+		"model": "Floor_10x10x0_Tiles_Angled",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Tile Floor": {
+		"model": "Floor_10x10x0_Tile",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Diamond Tiles Stairway": {
+		"model": "Floor_10x10x0_Tiles_Diamond_Stair",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Straight Tiles Stairway": {
+		"model": "Floor_10x10x0_Tiles_Straight_Stair_A",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Straight Tiles Stairway (Rotated)": {
+		"model": "Floor_10x10x0_Tiles_Straight_Stair_B",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Angled Tiles Stairway": {
+		"model": "Floor_10x10x0_Tiles_Angled_Stair_A",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Angled Tiles Stairway (Rotated)": {
+		"model": "Floor_10x10x0_Tiles_Angled_Stair_B",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Tile Stairway": {
+		"model": "Floor_10x10x0_Tile_Stair_A",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Tile Stairway Alternating 1": {
+		"model": "Floor_10x10x0_Tile_Stair_B",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Tile Stairway Alternating 2": {
+		"model": "Floor_10x10x0_Tile_Stair_C",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Lotus": {
+		"model": "Lotus_0125x0125x0125",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 8.0,
+		"heightDelta": 0.25,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#FFFFFF",
+            "color3": "#DFC635"
+        }
+	}
+}

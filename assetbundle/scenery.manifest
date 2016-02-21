@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 1160178317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c18d008c1dff556e43fc78271fd5d5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Roof_10x10x05_Bottom_Inner_Corner.obj
+- Assets/Floor_10x10x0_Tiles_Angled.obj
+- Assets/Teahouse_10x00x10_Regular_Angled.obj
+- Assets/Roof_10x10x10_Top_T.obj
+- Assets/Lantern_02x02x025_Regular.obj
+- Assets/Walkway_10x00x10_Beam.obj
+- Assets/Roof_10x10x05_Bottom.obj
+- Assets/Lantern_02x02x025_Rope.obj
+- Assets/Roof_10x10x05_Top_Bottom_X.obj
+- Assets/Teahouse_10x00x10_Bottom_Door.obj
+- Assets/Teahouse_10x00x10_Bottom_Window.obj
+- Assets/Teahouse_10x00x05_Regular.obj
+- Assets/Floor_10x10x0_Tiles_Straight.obj
+- Assets/Roof_10x10x05_Corner_Cap_Dragon.obj
+- Assets/Lantern_02x02x025_Symbols.obj
+- Assets/Floor_10x10x0_Tile.obj
+- Assets/Floor_10x10x0_Tiles_Angled_Stair_A.obj
+- Assets/Roof_10x10x05_Top_Bottom_T.obj
+- Assets/Roof_10x00x10_Cap_Angled.obj
+- Assets/Roof_10x10x05_Top_Bottom_No_Cap.obj
+- Assets/Roof_10x10x05_Top_Bottom_Corner.obj
+- Assets/Roof_10x10x10_Top_Side.obj
+- Assets/Floor_10x10x0_Tiles_Straight_Stair_A.obj
+- Assets/Teahouse_10x00x10_Bottom.obj
+- Assets/Teahouse_10x00x10_Regular_Window.obj
+- Assets/Walkway_10x00x10_Regular.obj
+- Assets/Roof_10x10x10_Regular.obj
+- Assets/Roof_10x10x05_Corner_Cap.obj
+- Assets/Stair_Ref.obj
+- Assets/Roof_10x10x05_Top_Bottom_Cap.obj
+- Assets/Floor_10x10x0_Tiles_Diamond.obj
+- Assets/Floor_10x10x0_Tiles_Angled_Stair_B.obj
+- Assets/Roof_10x10x05_Bottom_Corner.obj
+- Assets/Roof_10x10x10_Corner.obj
+- Assets/Teahouse_10x00x05_Bottom.obj
+- Assets/Roof_10x10x05_Top_Bottom.obj
+- Assets/Lotus_0125x0125x0125.obj
+- Assets/Roof_10x10x10_Top_Corner.obj
+- Assets/Teahouse_10x00x10_Regular_Door.obj
+- Assets/Floor_10x10x0_Tile_Stair_A.obj
+- Assets/Roof_10x10x10_Inner_Corner.obj
+- Assets/Walkway_10x00x10_No_Wall.obj
+- Assets/Floor_10x10x0_Tile_Stair_C.obj
+- Assets/Floor_10x10x0_Tiles_Straight_Stair_B.obj
+- Assets/Roof_10x10x10_Top_X.obj
+- Assets/Teahouse_10x00x10_Regular.obj
+- Assets/Teahouse_10x00x10_Bottom_Angled.obj
+- Assets/Roof_10x10x05_Top_Bottom_Side.obj
+- Assets/Roof_10x00x00_Cap.obj
+- Assets/Roof_10x10x10_Top.obj
+- Assets/Generic_Wall.obj
+- Assets/Floor_10x10x0_Tiles_Diamond_Stair.obj
+- Assets/Floor_10x10x0_Tile_Stair_B.obj
+- Assets/Roof_10x10x10_Top_Cap.obj
+Dependencies: []
