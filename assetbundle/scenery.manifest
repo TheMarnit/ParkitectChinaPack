@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1160178317
+CRC: 3038718730
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6c18d008c1dff556e43fc78271fd5d5e
+    Hash: 7204fcd379b0edaf1cc37f0e72657e1d
   TypeTreeHash:
     serializedVersion: 2
     Hash: f47e5080155a0c3ac2e9ffbbc14e366d
@@ -62,6 +62,7 @@ Assets:
 - Assets/Roof_10x10x05_Top_Bottom.obj
 - Assets/Lotus_0125x0125x0125.obj
 - Assets/Roof_10x10x10_Top_Corner.obj
+- Assets/Lantern_10x00x00_Rope.obj
 - Assets/Teahouse_10x00x10_Regular_Door.obj
 - Assets/Floor_10x10x0_Tile_Stair_A.obj
 - Assets/Roof_10x10x10_Inner_Corner.obj

@@ -560,6 +560,18 @@
             "color": "#808080"
         }
 	},
+	"Lantern Horizontal Rope": {
+		"model": "Lantern_10x00x00_Rope",
+		"category": "Chinese Pack",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 5.0,
+		"heightDelta": 0.25,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color": "#808080"
+        }
+	},
 	"Diamond Tiles Floor": {
 		"model": "Floor_10x10x0_Tiles_Diamond",
 		"category": "Chinese Pack",
