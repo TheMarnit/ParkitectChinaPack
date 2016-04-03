@@ -1,11 +1,17 @@
 ----------------------------------------------
+1.2.1 - Diagonal And Shoji Update (2016-04-03)
+----------------------------------------------
+Corrected Changelog
+----------------------------------------------
+
+----------------------------------------------
 1.2.0 - Diagonal And Shoji Update (2016-04-03)
 ----------------------------------------------
-Added 41 Total Objects:
+Added 42 Total Objects:
 
-Added 01 Roof object (Roof caps)
 Added 01 Teahouse wall (Regular)
 Added 01 Walkway wall (Regular)
+Added 02 Roof objects (Roof caps)
 Added 03 Border objects
 Added 04 Walkway walls (Diagonal)
 Added 05 Teahouse walls (Bottom Diagonal)
