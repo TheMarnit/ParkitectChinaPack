@@ -1,48 +1,63 @@
-------------------------------------------
+----------------------------------------------
+1.2.0 - Diagonal And Shoji Update (2016-04-03)
+----------------------------------------------
+Added 41 Total Objects:
 
+Added 01 Roof object (Roof caps)
+Added 01 Teahouse wall (Regular)
+Added 01 Walkway wall (Regular)
+Added 03 Border objects
+Added 04 Walkway walls (Diagonal)
+Added 05 Teahouse walls (Bottom Diagonal)
+Added 06 Tiled Floor objects (Triangular)
+Added 06 Teahouse walls (Regular Diagonal)
+Added 07 Shoji walls (Regular)
+Added 07 Shoji walls (Diagonal)
+----------------------------------------------
+Changed 2 Total Objects:
+
+Improved 01 Roof (Bottom) object geometry
+Improved 01 Teahouse wall (Regular) geometry
+----------------------------------------------
+Renamed to Asia Pack, due to japanese objects
+Reworked prices for Pre-Alpha 8
+Changed object grouping to fit in more
+Changed object names to fit in more
+Removed outdated Construction Anarchy code
+----------------------------------------------
+
+
+----------------------------------------------
 1.1.0 - Anarchy and Ropes (2016-02-25)
-
-
-------------------------------------------
-
+----------------------------------------------
 Added 1 Total Objects:
 
 Added 01 Lantern object
-------------------------------------------
-
+----------------------------------------------
 Added support for Construction Anarchy
-------------------------------------------
+----------------------------------------------
 
 
-------------------------------------------
-
+----------------------------------------------
 1.0.0 - Initial Release (2016-02-21)
-
-
-------------------------------------------
-Added 50 Total Objects
-:
+----------------------------------------------
+Added 50 Total Objects:
 
 Added 01 Lotus object
-
 Added 02 Lantern objects
-
-Added 03 Walkway walls
-
-Added 04 Tiled Floor objects
-
+Added 03 Walkway walls (Regular)
+Added 04 Tiled Floor objects (Regular)
+Added 04 Roof objects (Roof caps)
+Added 05 Teahouse walls (Regular)
+Added 05 Teahouse walls (Bottom)
 Added 08 Tiled Stairway objects
-
-Added 10 Teahouse walls
-
-Added 22 Roof objects
-
-------------------------------------------
+Added 09 Roof objects (Regular)
+Added 09 Roof objects (Bottom)
+----------------------------------------------
 
 
-------------------------------------------
+----------------------------------------------
 Special Thanks
-------------------------------------------
-Muuuh - Suggestion horizontal rope,
-	Requesting less build restrictions
-------------------------------------------
+----------------------------------------------
+Muuuh -	Suggestion horizontal rope
+----------------------------------------------

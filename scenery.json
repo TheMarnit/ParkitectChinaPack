@@ -1,10 +1,26 @@
 ﻿{
 	"Teahouse Wall": {
+		"displayName": "Wall",
 		"model": "Teahouse_10x00x10_Regular",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Regular/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000"
+        }
+	},
+	"Marnit_China_Teahouse_Diag": {
+		"displayName": "Wall",
+		"model": "Teahouse_10x10x10_Regular",
+		"category": "Structures/Walls/Teahouse/Regular/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -14,11 +30,28 @@
         }
 	},
 	"Teahouse Wall Window": {
+		"displayName": "Window",
 		"model": "Teahouse_10x00x10_Regular_Window",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Regular/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#800000"
+        }
+	},
+	"Marnit_China_Teahouse_Window_Diag": {
+		"displayName": "Window",
+		"model": "Teahouse_10x10x10_Regular_Window",
+		"category": "Structures/Walls/Teahouse/Regular/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -29,11 +62,28 @@
         }
 	},
 	"Teahouse Wall Door": {
+		"displayName": "Door",
 		"model": "Teahouse_10x00x10_Regular_Door",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Regular/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#800000"
+        }
+	},
+	"Marnit_China_Teahouse_Door_Diag": {
+		"displayName": "Door",
+		"model": "Teahouse_10x10x10_Regular_Door",
+		"category": "Structures/Walls/Teahouse/Regular/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -44,11 +94,28 @@
         }
 	},
 	"Teahouse Wall Angled": {
+		"displayName": "Wall (Angled)",
 		"model": "Teahouse_10x00x10_Regular_Angled",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Regular/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#800000"
+        }
+	},
+	"Marnit_China_Teahouse_Angled_Diag": {
+		"displayName": "Wall (Angled)",
+		"model": "Teahouse_10x10x10_Regular_Angled",
+		"category": "Structures/Walls/Teahouse/Regular/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -59,11 +126,28 @@
         }
 	},
 	"Teahouse Wall (Bottom)": {
+		"displayName": "Wall",
 		"model": "Teahouse_10x00x10_Bottom",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Bottom/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Marnit_China_Teahouse_Bottom_Diag": {
+		"displayName": "Wall",
+		"model": "Teahouse_10x10x10_Bottom",
+		"category": "Structures/Walls/Teahouse/Bottom/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -74,11 +158,29 @@
         }
 	},
 	"Teahouse Wall Window (Bottom)": {
+		"displayName": "Window",
 		"model": "Teahouse_10x00x10_Bottom_Window",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Bottom/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA",
+            "color4": "#800000"
+        }
+	},
+	"Marnit_China_Teahouse_Bottom_Window_Diag": {
+		"displayName": "Window",
+		"model": "Teahouse_10x10x10_Bottom_Window",
+		"category": "Structures/Walls/Teahouse/Bottom/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -90,11 +192,29 @@
         }
 	},
 	"Teahouse Wall Door (Bottom)": {
+		"displayName": "Door",
 		"model": "Teahouse_10x00x10_Bottom_Door",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Bottom/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA",
+            "color4": "#800000"
+        }
+	},
+	"Marnit_China_Teahouse_Bottom_Door_Diag": {
+		"displayName": "Door",
+		"model": "Teahouse_10x10x10_Bottom_Door",
+		"category": "Structures/Walls/Teahouse/Bottom/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -106,11 +226,28 @@
         }
 	},
 	"Teahouse Wall Angled (Bottom)": {
+		"displayName": "Wall (Angled)",
 		"model": "Teahouse_10x00x10_Bottom_Angled",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Bottom/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Marnit_China_Teahouse_Bottom_Angled_Diag": {
+		"displayName": "Wall (Angled)",
+		"model": "Teahouse_10x10x10_Bottom_Angled",
+		"category": "Structures/Walls/Teahouse/Bottom/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -121,11 +258,12 @@
         }
 	},
 	"Teahouse Wall Half": {
+		"displayName": "Wall (Half)",
 		"model": "Teahouse_10x00x05_Regular",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Teahouse/Regular/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 20.0,
+		"price": 2.5,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -134,12 +272,28 @@
             "color2": "#FF0000"
         }
 	},
-	"Teahouse Wall Half (Bottom)": {
-		"model": "Teahouse_10x00x05_Bottom",
-		"category": "Chinese Pack",
+	"Marnit_China_Teahouse_Half_Diag": {
+		"displayName": "Wall (Half)",
+		"model": "Teahouse_10x10x05_Regular",
+		"category": "Structures/Walls/Teahouse/Regular/Diagonal",
 		"type": "deco",
 		"grid": true,
-		"price": 20.0,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000"
+        }
+	},
+	"Marnit_China_Teahouse_Half_Upper": {
+		"displayName": "Wall (Half)",
+		"model": "Teahouse_10x00x05_Upper",
+		"category": "Structures/Walls/Teahouse/Regular/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -149,12 +303,341 @@
             "color3": "#AAAAAA"
         }
 	},
-	"Walkway Wall": {
-		"model": "Walkway_10x00x10_Regular",
-		"category": "Chinese Pack",
+	"Marnit_China_Teahouse_Half_Upper_Diag": {
+		"displayName": "Wall (Half)",
+		"model": "Teahouse_10x10x05_Upper",
+		"category": "Structures/Walls/Teahouse/Regular/Diagonal",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Teahouse Wall Half (Bottom)": {
+		"displayName": "Wall (Half)",
+		"model": "Teahouse_10x00x05_Bottom",
+		"category": "Structures/Walls/Teahouse/Bottom/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Marnit_China_Teahouse_Bottom_Half_Diag": {
+		"displayName": "Wall (Half)",
+		"model": "Teahouse_10x10x05_Bottom",
+		"category": "Structures/Walls/Teahouse/Bottom/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#AAAAAA"
+        }
+	},
+	"Marnit_China_Shoji": {
+		"displayName": "Wall",
+		"model": "Paper_10x00x10_Regular",
+		"category": "Structures/Walls/Shoji/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Diag": {
+		"displayName": "Wall",
+		"model": "Paper_10x10x10_Regular",
+		"category": "Structures/Walls/Shoji/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Angled": {
+		"displayName": "Wall (Angled)",
+		"model": "Paper_10x00x10_Angled",
+		"category": "Structures/Walls/Shoji/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Angled_Diag": {
+		"displayName": "Wall (Angled)",
+		"model": "Paper_10x10x10_Angled",
+		"category": "Structures/Walls/Shoji/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Single": {
+		"displayName": "Pane",
+		"model": "Paper_05x00x10_Regular",
+		"category": "Structures/Walls/Shoji/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Single_Diag": {
+		"displayName": "Pane",
+		"model": "Paper_05x05x10_Regular",
+		"category": "Structures/Walls/Shoji/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Half": {
+		"displayName": "Wall (Half)",
+		"model": "Paper_10x00x05_Regular",
+		"category": "Structures/Walls/Shoji/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Half_Diag": {
+		"displayName": "Wall (Half)",
+		"model": "Paper_10x10x05_Regular",
+		"category": "Structures/Walls/Shoji/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Half_Bottom": {
+		"displayName": "Wall (Half)",
+		"model": "Paper_10x00x05_Bottom",
+		"category": "Structures/Walls/Shoji/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Half_Bottom_Diag": {
+		"displayName": "Wall (Half)",
+		"model": "Paper_10x10x05_Bottom",
+		"category": "Structures/Walls/Shoji/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Door_Left": {
+		"displayName": "Door (Left)",
+		"model": "Paper_025x00x10_Door_A",
+		"category": "Structures/Walls/Shoji/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Door_Left_Diag": {
+		"displayName": "Door (Left)",
+		"model": "Paper_025x025x10_Door_A",
+		"category": "Structures/Walls/Shoji/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Door_Right": {
+		"displayName": "Door (Right)",
+		"model": "Paper_025x00x10_Door_B",
+		"category": "Structures/Walls/Shoji/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Shoji_Door_Right_Diag": {
+		"displayName": "Door (Right)",
+		"model": "Paper_025x025x10_Door_B",
+		"category": "Structures/Walls/Shoji/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#999999"
+        }
+	},
+	"Marnit_China_Border_Single": {
+		"displayName": "Border",
+		"model": "Paper_05x00x00_Border",
+		"category": "Structures/Walls",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Marnit_China_Border_Single_Diag": {
+		"displayName": "Border",
+		"model": "Paper_05x05x00_Border",
+		"category": "Structures/Walls",
+		"type": "deco",
+		"grid": true,
+		"price": 2.5,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Marnit_China_Border_Diag": {
+		"displayName": "Border",
+		"model": "Paper_10x10x00_Border",
+		"category": "Structures/Walls",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Walkway Wall": {
+		"displayName": "Wall",
+		"model": "Walkway_10x00x10_Regular",
+		"category": "Structures/Walls/Walkway/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000",
+            "color3": "#FF0000"
+        }
+	},
+	"Marnit_China_Walkway_Diag": {
+		"displayName": "Wall",
+		"model": "Walkway_10x10x10_Regular",
+		"category": "Structures/Walls/Walkway/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -165,11 +648,27 @@
         }
 	},
 	"Walkway Entrance": {
+		"displayName": "Entrance",
 		"model": "Walkway_10x00x10_No_Wall",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Walkway/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#FF0000"
+        }
+	},
+	"Marnit_China_Walkway_Entrance_Diag": {
+		"displayName": "Entrance",
+		"model": "Walkway_10x10x10_No_Wall",
+		"category": "Structures/Walls/Walkway/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -179,11 +678,54 @@
         }
 	},
 	"Walkway Beam": {
+		"displayName": "Beam",
 		"model": "Walkway_10x00x10_Beam",
-		"category": "Chinese Pack",
+		"category": "Structures/Walls/Walkway/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF"
+        }
+	},
+	"Marnit_China_Walkway_Beam_Diag": {
+		"displayName": "Beam",
+		"model": "Walkway_10x10x10_Beam",
+		"category": "Structures/Walls/Walkway/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF"
+        }
+	},
+	"Marnit_China_Walkway_Poles": {
+		"displayName": "Poles",
+		"model": "Walkway_10x00x10_Poles",
+		"category": "Structures/Walls/Walkway/Regular",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF"
+        }
+	},
+	"Marnit_China_Walkway_Poles_Diag": {
+		"displayName": "Poles",
+		"model": "Walkway_10x10x10_Poles",
+		"category": "Structures/Walls/Walkway/Diagonal",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -192,11 +734,12 @@
         }
 	},
 	"Roof": {
+		"displayName": "Roof",
 		"model": "Roof_10x10x10_Regular",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -207,11 +750,12 @@
         }
 	},
 	"Roof Corner": {
+		"displayName": "Corner 1",
 		"model": "Roof_10x10x10_Corner",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -223,11 +767,12 @@
         }
 	},
 	"Roof Inner Corner": {
+		"displayName": "Corner 2",
 		"model": "Roof_10x10x10_Inner_Corner",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -239,11 +784,12 @@
         }
 	},
 	"Roof Top": {
+		"displayName": "Rooftop",
 		"model": "Roof_10x10x10_Top_Cap",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -255,11 +801,12 @@
         }
 	},
 	"Roof Top Straight": {
+		"displayName": "Straight",
 		"model": "Roof_10x10x10_Top",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -271,11 +818,12 @@
         }
 	},
 	"Roof Top Corner": {
+		"displayName": "Corner 3",
 		"model": "Roof_10x10x10_Top_Corner",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -287,11 +835,12 @@
         }
 	},
 	"Roof Top T-Junction": {
+		"displayName": "T-Junction",
 		"model": "Roof_10x10x10_Top_T",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -303,11 +852,12 @@
         }
 	},
 	"Roof Top Cross": {
+		"displayName": "Cross",
 		"model": "Roof_10x10x10_Top_X",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -319,11 +869,12 @@
         }
 	},
 	"Roof Top Side": {
+		"displayName": "Side",
 		"model": "Roof_10x10x10_Top_Side",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Regular",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -335,8 +886,23 @@
         }
 	},
 	"Roof Cap": {
+		"displayName": "Flat Cap",
 		"model": "Roof_10x00x00_Cap",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Roof Caps",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#303030"
+        }
+	},
+	"Marnit_China_Roof_Cap_Diag": {
+		"displayName": "Diagonal Cap",
+		"model": "Roof_10x10x00_Cap",
+		"category": "Structures/Roofs/Chinese/Roof Caps",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -348,8 +914,23 @@
         }
 	},
 	"Roof Cap Angled": {
+		"displayName": "Regular Cap",
 		"model": "Roof_10x00x10_Cap_Angled",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Roof Caps",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#303030"
+        }
+	},
+	"Marnit_China_Roof_Cap_Bottom_Angled": {
+		"displayName": "Bottom Cap",
+		"model": "Roof_10x00x05_Cap_Angled",
+		"category": "Structures/Roofs/Chinese/Roof Caps",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -361,11 +942,12 @@
         }
 	},
 	"Roof (Bottom)": {
+		"displayName": "Roof",
 		"model": "Roof_10x10x05_Bottom",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -377,11 +959,13 @@
         }
 	},
 	"Roof Corner (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "Corner 1",
 		"model": "Roof_10x10x05_Bottom_Corner",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -393,11 +977,13 @@
         }
 	},
 	"Roof Inner Corner (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "Corner 2",
 		"model": "Roof_10x10x05_Bottom_Inner_Corner",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -409,11 +995,13 @@
         }
 	},
 	"Roof Top (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "Rooftop",
 		"model": "Roof_10x10x05_Top_Bottom_Cap",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -425,11 +1013,13 @@
         }
 	},
 	"Roof Top Straight (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "Straight",
 		"model": "Roof_10x10x05_Top_Bottom",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -441,11 +1031,13 @@
         }
 	},
 	"Roof Top Corner (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "Corner 3",
 		"model": "Roof_10x10x05_Top_Bottom_Corner",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -457,11 +1049,13 @@
         }
 	},
 	"Roof Top T-Junction (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "T-Junction",
 		"model": "Roof_10x10x05_Top_Bottom_T",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -473,11 +1067,13 @@
         }
 	},
 	"Roof Top Cross (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "Cross",
 		"model": "Roof_10x10x05_Top_Bottom_X",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -489,11 +1085,13 @@
         }
 	},
 	"Roof Top Side (Bottom)": {
+		"needsGeoUpdate": true,
+		"displayName": "Side",
 		"model": "Roof_10x10x05_Top_Bottom_Side",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Bottom",
 		"type": "deco",
 		"grid": true,
-		"price": 30.0,
+		"price": 5.0,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -505,11 +1103,12 @@
         }
 	},
 	"Roof Corner Cap": {
+		"displayName": "Corner Cap",
 		"model": "Roof_10x10x05_Corner_Cap",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Roof Caps",
 		"type": "deco",
 		"grid": true,
-		"price": 15.0,
+		"price": 2.5,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -518,11 +1117,12 @@
         }
 	},
 	"Roof Corner Dragon": {
+		"displayName": "Corner Dragon",
 		"model": "Roof_10x10x05_Corner_Cap_Dragon",
-		"category": "Chinese Pack",
+		"category": "Structures/Roofs/Chinese/Roof Caps",
 		"type": "deco",
 		"grid": true,
-		"price": 15.0,
+		"price": 2.5,
 		"heightDelta": 0.5,
 		"snapCenter": true,
         "recolorable": true,
@@ -534,10 +1134,11 @@
         }
 	},
 	"Lantern": {
+		"displayName": "Lantern",
 		"model": "Lantern_02x02x025_Symbols",
-		"category": "Chinese Pack",
+		"category": "Props/Chinese",
 		"type": "deco",
-		"price": 10.0,
+		"price": 1.5,
 		"gridSubdivision": 5.0,
 		"heightDelta": 0.25,
         "recolorable": true,
@@ -549,10 +1150,11 @@
         }
 	},
 	"Lantern Rope": {
+		"displayName": "Vertical Rope",
 		"model": "Lantern_02x02x025_Rope",
-		"category": "Chinese Pack",
+		"category": "Props/Chinese",
 		"type": "deco",
-		"price": 10.0,
+		"price": 1.5,
 		"gridSubdivision": 5.0,
 		"heightDelta": 0.25,
         "recolorable": true,
@@ -561,10 +1163,11 @@
         }
 	},
 	"Lantern Horizontal Rope": {
+		"displayName": "Horizontal Rope",
 		"model": "Lantern_10x00x00_Rope",
-		"category": "Chinese Pack",
+		"category": "Props/Chinese",
 		"type": "deco",
-		"price": 10.0,
+		"price": 1.5,
 		"gridSubdivision": 5.0,
 		"heightDelta": 0.25,
         "recolorable": true,
@@ -573,8 +1176,24 @@
         }
 	},
 	"Diamond Tiles Floor": {
+		"displayName": "Diamond",
 		"model": "Floor_10x10x0_Tiles_Diamond",
-		"category": "Chinese Pack",
+		"category": "Structures/Floors/Chinese/Square",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Marnit_China_Tiles_Diamond_Diag": {
+		"displayName": "Diamond",
+		"model": "Floor_10x10x0_Tiles_Diamond_Diag",
+		"category": "Structures/Floors/Chinese/Triangular",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -587,8 +1206,39 @@
         }
 	},
 	"Straight Tiles Floor": {
+		"displayName": "Straight",
 		"model": "Floor_10x10x0_Tiles_Straight",
-		"category": "Chinese Pack",
+		"category": "Structures/Floors/Chinese/Square",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Marnit_China_Tiles_Straight_Diag_A": {
+		"displayName": "Straight 1",
+		"model": "Floor_10x10x0_Tiles_Straight_Diag_A",
+		"category": "Structures/Floors/Chinese/Triangular",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Marnit_China_Tiles_Straight_Diag_B": {
+		"displayName": "Straight 2",
+		"model": "Floor_10x10x0_Tiles_Straight_Diag_B",
+		"category": "Structures/Floors/Chinese/Triangular",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -601,8 +1251,39 @@
         }
 	},
 	"Angled Tiles Floor": {
+		"displayName": "Angled",
 		"model": "Floor_10x10x0_Tiles_Angled",
-		"category": "Chinese Pack",
+		"category": "Structures/Floors/Chinese/Square",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Marnit_China_Tiles_Angled_Diag_A": {
+		"displayName": "Angled 1",
+		"model": "Floor_10x10x0_Tiles_Angled_Diag_A",
+		"category": "Structures/Floors/Chinese/Triangular",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Marnit_China_Tiles_Angled_Diag_B": {
+		"displayName": "Angled 2",
+		"model": "Floor_10x10x0_Tiles_Angled_Diag_B",
+		"category": "Structures/Floors/Chinese/Triangular",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -615,8 +1296,24 @@
         }
 	},
 	"Tile Floor": {
+		"displayName": "Tile",
 		"model": "Floor_10x10x0_Tile",
-		"category": "Chinese Pack",
+		"category": "Structures/Floors/Chinese/Square",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FF0000",
+            "color2": "#000000"
+        }
+	},
+	"Marnit_China_Tiles_Diag": {
+		"displayName": "Tile",
+		"model": "Floor_10x10x0_Tile_Diag",
+		"category": "Structures/Floors/Chinese/Triangular",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -629,8 +1326,9 @@
         }
 	},
 	"Diamond Tiles Stairway": {
+		"displayName": "Diamond",
 		"model": "Floor_10x10x0_Tiles_Diamond_Stair",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -643,8 +1341,9 @@
         }
 	},
 	"Straight Tiles Stairway": {
+		"displayName": "Straight 1",
 		"model": "Floor_10x10x0_Tiles_Straight_Stair_A",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -657,8 +1356,9 @@
         }
 	},
 	"Straight Tiles Stairway (Rotated)": {
+		"displayName": "Straight 2",
 		"model": "Floor_10x10x0_Tiles_Straight_Stair_B",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -671,8 +1371,9 @@
         }
 	},
 	"Angled Tiles Stairway": {
+		"displayName": "Angled 1",
 		"model": "Floor_10x10x0_Tiles_Angled_Stair_A",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -685,8 +1386,9 @@
         }
 	},
 	"Angled Tiles Stairway (Rotated)": {
+		"displayName": "Angled 2",
 		"model": "Floor_10x10x0_Tiles_Angled_Stair_B",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -699,8 +1401,9 @@
         }
 	},
 	"Tile Stairway": {
+		"displayName": "Tile",
 		"model": "Floor_10x10x0_Tile_Stair_A",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -713,8 +1416,9 @@
         }
 	},
 	"Tile Stairway Alternating 1": {
+		"displayName": "Alternating 1",
 		"model": "Floor_10x10x0_Tile_Stair_B",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -727,8 +1431,9 @@
         }
 	},
 	"Tile Stairway Alternating 2": {
+		"displayName": "Alternating 2",
 		"model": "Floor_10x10x0_Tile_Stair_C",
-		"category": "Chinese Pack",
+		"category": "Structures/Stairs/Chinese",
 		"type": "deco",
 		"grid": true,
 		"price": 5.0,
@@ -741,10 +1446,11 @@
         }
 	},
 	"Lotus": {
+		"displayName": "Lotus",
 		"model": "Lotus_0125x0125x0125",
-		"category": "Chinese Pack",
+		"category": "Nature/Plants",
 		"type": "deco",
-		"price": 10.0,
+		"price": 1.5,
 		"gridSubdivision": 8.0,
 		"heightDelta": 0.25,
         "recolorable": true,

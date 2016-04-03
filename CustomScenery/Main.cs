@@ -26,8 +26,8 @@ namespace Custom_Scenery
             Object.Destroy(_go);
         }
 
-        public string Name { get { return "China Pack"; } }
-        public string Description { get { return "Chinese objects and building set."; } }
+        public string Name { get { return "Asia Pack [v1.2.0]"; } }
+        public string Description { get { return "Asian objects and building set."; } }
         public string Path { get; set; }
         public string Identifier { get; set; }
     }

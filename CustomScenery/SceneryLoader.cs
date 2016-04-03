@@ -22,15 +22,6 @@ namespace Custom_Scenery
             try
             {
                 var dict = Json.Deserialize(File.ReadAllText(Path + @"/scenery.json")) as Dictionary<string, object>;
-				var anarchy_enabled = 0;
-				var anarchy_settings = dict;
-				try {
-					var anarchy = Json.Deserialize(File.ReadAllText(Path.Substring(0,Path.Length-"ChinaPack".Length) + @"Anarchy/mod.json")) as Dictionary<string, object>;
-					if((bool)anarchy["IsEnabled"]) {
-						anarchy_settings = Json.Deserialize(File.ReadAllText(Path.Substring(0,Path.Length-"ChinaPack".Length) + @"Anarchy/settings.json")) as Dictionary<string, object>;
-						anarchy_enabled = 1;
-					}
-				} catch {}		
 				GameObject hider = new GameObject();
 
                 char dsc = System.IO.Path.DirectorySeparatorChar;
@@ -47,13 +38,6 @@ namespace Custom_Scenery
                         try
                         {
                             var options = pair.Value as Dictionary<string, object>;
-                            if(anarchy_enabled==1) {
-								foreach (KeyValuePair<string, object> setting in anarchy_settings)
-								{
-									if(setting.Key != "gridSubdivision" || !options.ContainsKey("gridSubdivision"))
-										options[setting.Key] = setting.Value;
-								}
-							}
                             GameObject asset = (new TypeDecorator((string)options["type"])).Decorate(options, bundle);
                             (new PriceDecorator((double)options["price"])).Decorate(asset, options, bundle);
                             (new NameDecorator(pair.Key)).Decorate(asset, options, bundle);

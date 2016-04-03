@@ -14,7 +14,7 @@ namespace Custom_Scenery.Decorators
 
         public void Decorate(GameObject go, Dictionary<string, object> options, AssetBundle assetBundle)
         {
-            go.GetComponent<BuildableObject>().setDisplayName(_name);
+            go.GetComponent<BuildableObject>().setDisplayName(options["displayName"].ToString());
             go.name = _name;
         }
     }
