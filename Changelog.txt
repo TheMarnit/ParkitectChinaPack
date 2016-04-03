@@ -19,6 +19,8 @@ Changed 2 Total Objects:
 Improved 01 Roof (Bottom) object geometry
 Improved 01 Teahouse wall (Regular) geometry
 ----------------------------------------------
+Other Changes:
+
 Renamed to Asia Pack, due to japanese objects
 Reworked prices for Pre-Alpha 8
 Changed object grouping to fit in more
