@@ -17,8 +17,6 @@ namespace Custom_Scenery.Decorators
 
         public void Decorate(GameObject go, Dictionary<string, object> options, AssetBundle assetBundle)
         {
-            if (options.ContainsKey("category"))
-				go.GetComponent<BuildableObject>().categoryTag = (string) options["category"];
             if (go.GetComponent<BuildableObject>() != null && _recolorable)
             {
                 CustomColors cc = go.AddComponent<CustomColors>();

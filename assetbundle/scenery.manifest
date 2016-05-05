@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3019008898
+CRC: 79832696
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2a85fd441da77b1301237ccb24c830fa
+    Hash: 3a6d5885906ab02d469b675725a0abca
   TypeTreeHash:
     serializedVersion: 2
     Hash: e6d74f2d6b370c4d26f3cae461538e43
@@ -86,12 +86,15 @@ Assets:
 - Assets/Paper_025x025x10_Door_A.obj
 - Assets/Roof_10x10x10_Diag_A.obj
 - Assets/Floor_10x10x0_Tile_Diag.obj
+- Assets/Wallfan_10x00x10_Tree_Side_B.obj
 - Assets/Paper_10x10x10_Regular.obj
 - Assets/Teahouse_10x10x10_Regular.obj
 - Assets/Roof_10x10x10_Top_Corner.obj
 - Assets/Paper_05x05x10_Regular.obj
 - Assets/Lantern_10x00x00_Rope.obj
 - Assets/Teahouse_10x00x10_Regular_Door.obj
+- Assets/Wallfan_10x00x10_Tree_Up_B.obj
+- Assets/Wallfan_10x00x10_Tree_B.obj
 - Assets/Floor_10x10x0_Tile_Stair_A.obj
 - Assets/Floor_10x10x0_Tiles_Angled_Diag_A.obj
 - Assets/Teahouse_10x10x10_Bottom_Angled.obj
@@ -104,12 +107,15 @@ Assets:
 - Assets/Floor_10x10x0_Tile_Stair_C.obj
 - Assets/Floor_10x10x0_Tiles_Straight_Stair_B.obj
 - Assets/Roof_10x10x10_Top_X.obj
+- Assets/Wallfan_10x00x10_Tree_Side.obj
 - Assets/Teahouse_10x00x10_Regular.obj
+- Assets/Wallfan_10x00x10_Tree.obj
 - Assets/Roof_10x10x10_Diag_B.obj
 - Assets/Teahouse_10x10x05_Bottom.obj
 - Assets/Paper_10x10x05_Bottom.obj
 - Assets/Paper_025x00x10_Door_A.obj
 - Assets/Teahouse_10x00x10_Bottom_Angled.obj
+- Assets/Wallfan_10x00x10_Tree_Up.obj
 - Assets/Teahouse_10x10x10_Bottom.obj
 - Assets/Roof_10x10x00_Cap.obj
 - Assets/Floor_10x10x0_Tiles_Straight_Diag_B.obj
